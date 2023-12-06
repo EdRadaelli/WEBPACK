@@ -1,0 +1,10 @@
+/*!******************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/components/heading.css ***!
+  \******************************************************************************/
+.main-title{
+    background-color: grey;
+    color: black;
+    border: 2px solid darkgray;
+    text-align: center;
+    padding: 20%;
+}

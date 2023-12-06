@@ -1,0 +1,16 @@
+GITHUB - Subir Arquivos
+
+Acessar o caminho correto da pasta
+git init  //inicia o projeto
+git add . //adiciona arquivos
+git status  //exibe os status do projeto
+git commit -a -m "Descrição"  //-a (todos os arquivos), -m (mensagem)
+git status
+
+Criar repositório no GitHub
+git remote add origin (nome do repositório) //https://github.com/EdRadaelli/webpack.git
+git branch -M main  //cria novo braço main
+git push -u origin main  //envia o repositório local para o remoto
+
+
+
